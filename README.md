@@ -6,3 +6,5 @@ And one more piece.
 This is line 6.
 
 Lines are nice.
+
+That is correct.
